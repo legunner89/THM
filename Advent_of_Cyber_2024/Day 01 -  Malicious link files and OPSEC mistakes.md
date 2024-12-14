@@ -51,7 +51,7 @@ In the context of cyber security, when malicious actors fail to follow proper OP
 
 1. Looks like the song.mp3 file is not what we expected! Run "exiftool song.mp3" in your terminal to find out the author of the song. Who is the author? 
 
-R: Tyler Ramsbey
+A:  **Tyler Ramsbey**
 
 ``exiftool -u -a song.mp3``
 
@@ -59,7 +59,7 @@ R: Tyler Ramsbey
 
 2. The malicious PowerShell script sends stolen info to a C2 server. What is the URL of this C2 server?
 
-R: http://papash3ll.thm/data
+A:  **http://papash3ll.thm/data**
 
 ``exiftool -u -a somg.mp3``
 
@@ -68,7 +68,7 @@ R: http://papash3ll.thm/data
 
 3. Who is M.M? Maybe his Github profile page would provide clues?
 
-R: Mayor Malware
+A:  **Mayor Malware**
 
 - https://github.com/MM-WarevilleTHM/M.M
 
@@ -76,7 +76,7 @@ R: Mayor Malware
 
 4. What is the number of commits on the GitHub repo where the issue was raised?
 
-R: 1
+A:  **1**
 
 - https://github.com/MM-WarevilleTHM/IS
 

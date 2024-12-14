@@ -30,28 +30,28 @@ McSkidy further analysed the secret hero and came to a startling revelation. The
 
 What is the name of the account causing all the failed login attempts?
 
-**service_admin**
+A: **service_admin**
 
 ![](imagens/2024-12-13_22-27.png)
 
 How many failed logon attempts were observed?
 
-**6791**
+A: **6791**
 
 ![](imagens/2024-12-13_22-29.png)
 
 What is the IP address of Glitch?
 
-**10.0.255.1**
+A: **10.0.255.1**
 
 ![](imagens/2024-12-13_22-40.png)
 
 When did Glitch successfully logon to ADM-01? Format: MMM D, YYYY HH:MM:SS.SSS
 
-**Dec 1, 2024 08:54:39.000**
+A: **Dec 1, 2024 08:54:39.000**
 
 What is the decoded command executed by Glitch to fix the systems of Wareville?
 
-**Install-WindowsUpdate -AcceptAll -AutoReboot**
+A: **Install-WindowsUpdate -AcceptAll -AutoReboot**
 
 ![](imagens/2024-12-13_22-53.png)
