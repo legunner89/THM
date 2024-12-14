@@ -61,6 +61,11 @@ R: Tyler Ramsbey
 
 R: http://papash3ll.thm/data
 
+``exiftool -u -a somg.mp3``
+
+![](imagens/2024-12-13_21-55.png)
+![](imagens/2024-12-13_21-57.png)
+
 3. Who is M.M? Maybe his Github profile page would provide clues?
 
 R: Mayor Malware
