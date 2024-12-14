@@ -53,6 +53,10 @@ In the context of cyber security, when malicious actors fail to follow proper OP
 
 R: Tyler Ramsbey
 
+``exiftool -u -a song.mp3``
+
+![[imagens/2024-12-13_21-39.png]]
+
 2. The malicious PowerShell script sends stolen info to a C2 server. What is the URL of this C2 server?
 
 R: http://papash3ll.thm/data
