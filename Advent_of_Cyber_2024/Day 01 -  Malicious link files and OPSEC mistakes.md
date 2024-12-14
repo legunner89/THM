@@ -70,6 +70,14 @@ R: http://papash3ll.thm/data
 
 R: Mayor Malware
 
+- https://github.com/MM-WarevilleTHM/M.M
+
+![](imagens/2024-12-13_22-00.png)
+
 4. What is the number of commits on the GitHub repo where the issue was raised?
 
 R: 1
+
+- https://github.com/MM-WarevilleTHM/IS
+
+![](imagens/2024-12-13_22-02.png)
