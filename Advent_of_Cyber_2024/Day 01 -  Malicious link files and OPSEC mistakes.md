@@ -55,7 +55,7 @@ R: Tyler Ramsbey
 
 ``exiftool -u -a song.mp3``
 
-![[imagens/2024-12-13_21-39.png]]
+![[Advent_of_Cyber_2024/imagens/2024-12-13_21-39.png]]
 
 2. The malicious PowerShell script sends stolen info to a C2 server. What is the URL of this C2 server?
 
